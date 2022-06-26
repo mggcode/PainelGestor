@@ -10,7 +10,7 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-![PrimeiroAngular](https://github.com/martageraldo/App-Tarefas/blob/main/img.png?raw=true)
+![Painel Gestor](https://github.com/martageraldo/PainelGestor/blob/main/painelDeGestao/assets/front.jpg?raw=true)
 
 
 
