@@ -1,0 +1,51 @@
+const RECENT_ORDER_DATA = [
+    {
+      productName: "Mini Drone Dobrável",
+      productNumber: "85753",
+      payment: "Vencido",
+      status: "Pendente",
+      statusColor: "warning",
+    },
+    {
+      productName: "Drone KF102 ARVENDER",
+      productNumber: "36987",
+      payment: "Reembolsado",
+      status: "Recusado",
+      statusColor: "danger",
+    },
+    {
+      productName: "Pro Drone Ruko F11",
+      productNumber: "44327",
+      payment: "Vencido",
+      status: "Pendente",
+      statusColor: "warning",
+    },
+    {
+      productName: "Drone com Camera 4k",
+      productNumber: "98231",
+      payment: "Pago",
+      status: "Entregue",
+      statusColor: "primary",
+    },
+    {
+      productName: " Drone com GPS 4k",
+      productNumber: "45768",
+      payment: "Pago",
+      status: "Entregue",
+      statusColor: "primary",
+    },
+    {
+      productName: "DJI Air 2S",
+      productNumber: "61878",
+      payment: "Vencido",
+      status: "Pendente",
+      statusColor: "warning",
+    },
+    {
+      productName: " Drone Lozenge",
+      productNumber: "00685",
+      payment: "Pago",
+      status: "Entregue",
+      statusColor: "primary",
+    },
+  ];
